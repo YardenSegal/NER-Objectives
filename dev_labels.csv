@@ -1,0 +1,14 @@
+﻿sentence,words
+"O: MRI of the lumbar spine showed an enhancing intradural, extramedullary lesion with adjacent dura thickening at L2. Post-surgical histology confirmed mesenchymal chondrosarcoma, characterized by round to spindle cells with interspersed cartilage and bone formation. Immunohistochemistry revealed diffuse CD99 positivity and negative staining for epithelial membrane antigen, STAT6, and glial fibrillary acid protein. Ki-67 index was approximately 30%. Archer FusionPlex Sarcoma Assay detected gene fusion transcripts: HEY1-NCOA2 (exon 4 to exon 13 and exon 14).","MRI [IMAGING]
+lumbar spine showed an enhancing intradural, extramedullary lesion with adjacent dura thickening at L2 [RESULT]
+Post-surgical histology [PROCEDURE]
+confirmed mesenchymal chondrosarcoma, characterized by round to spindle cells with interspersed cartilage and bone formation [RESULT]
+Immunohistochemistry [LAB]
+revealed diffuse CD99 positivity and negative staining for epithelial membrane antigen, STAT6, and glial fibrillary acid protein. Ki-67 index was approximately 30% [RESULT]
+Archer FusionPlex Sarcoma Assay [LAB]
+detected gene fusion transcripts: HEY1-NCOA2 (exon 4 to exon 13 and exon 14). [RESULT]"
+"O: Physical examination revealed a round, red face, large and short neck, cervical acanthosis nigricans, well-muscled body, and melanocytic nevus on back and limbs. Laboratory tests showed normal blood count, albumin, renal and hepatic function, ionogram, and phosphocalcic metabolism. Lipid and glucidic profiles indicated elevated total cholesterol at 219 mg/dL (normal <200 mg/dL), low HDL at 55 mg/dL (desired >60 mg/dL), and elevated LDL at 141 mg/dL (normal <130 mg/dL). Triglycerides were normal at 115 mg/dL.","
+Physical examination [VITAL]
+revealed a round, red face, large and short neck, cervical acanthosis nigricans, well-muscled body, and melanocytic nevus on back and limbs [RESULT]
+Laboratory tests [LAB]
+showed normal blood count, albumin, renal and hepatic function, ionogram, and phosphocalcic metabolism. Lipid and glucidic profiles indicated elevated total cholesterol at 219 mg/dL (normal <200 mg/dL), low HDL at 55 mg/dL (desired >60 mg/dL), and elevated LDL at 141 mg/dL (normal <130 mg/dL). Triglycerides were normal at 115 mg/dL. [RESULT]"
